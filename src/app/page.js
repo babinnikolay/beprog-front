@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import Link from "next/link";
 
 export default function LandingPage() {
   return (
@@ -11,7 +11,7 @@ export default function LandingPage() {
           Discover amazing features and start your journey with us today.
         </p>
         <Link
-          href="/parts/catalogs"
+          href="/parts/start"
           className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-4 px-8 rounded-lg text-lg transition duration-300"
         >
           Start Journey

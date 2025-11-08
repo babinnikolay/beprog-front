@@ -1,8 +1,8 @@
-export default async function CatalogsPart() {
+export default async function StartPart() {
   return (
     <div className="max-w-4xl mx-auto py-12 px-4">
       <h1 className="text-4xl font-bold text-gray-900 mb-8">
-        Часть 1: Справочники
+        Часть 0: Вступление
       </h1>
       <div className="prose prose-lg">
         <p className="text-gray-600 mb-6">
